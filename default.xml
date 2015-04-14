@@ -204,7 +204,6 @@
   <project path="external/oprofile" name="platform/external/oprofile" remote="aosp" />
   <project path="external/ping" name="platform/external/ping" remote="aosp" />
   <project path="external/ping6" name="platform/external/ping6" remote="aosp" />
-  <project path="external/ppp" name="platform/external/ppp" remote="aosp" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk-java" remote="aosp" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" remote="aosp" />
   <project path="external/qemu" name="platform/external/qemu" remote="aosp" />
